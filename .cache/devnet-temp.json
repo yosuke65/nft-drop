@@ -1,0 +1,32 @@
+{
+  "program": {
+    "uuid": "73WJF7",
+    "candyMachine": "73WJF76FexieeBC1nC2pWiwyuDry3jnTbjUgce9LFAJX",
+    "collection": "HVzvs6N94dssqSJdLE1W4WK6AVRxWKr66bXtcYtdf5He"
+  },
+  "items": {
+    "0": {
+      "link": "https://arweave.net/p4oR7CoS8zXDhFB5AalFqwDXFeX0chwckJ4f1DtRXmE",
+      "imageLink": "https://arweave.net/YVMXPjw3ZmLKIEqbZDMV8Da9HBmF_vIe7ZuQj8D1trc?ext=png",
+      "name": "Mork",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "1": {
+      "link": "https://arweave.net/1-657w64ouA1Uzwg1t0LM3zbZOfMQt_mEwBhUjKEXwU",
+      "imageLink": "https://arweave.net/oCJSCkwHbTbdAtph5xTfC8rEmTcVeclUmD72sz0NIPk?ext=png",
+      "name": "KORO",
+      "onChain": true,
+      "verifyRun": true
+    },
+    "2": {
+      "link": "https://arweave.net/MW71r7ZYTzYI3lVwduwKQNWR-ISvA5yRZglhvydhcy8",
+      "imageLink": "https://arweave.net/ftgP_v4psvRTQqFBrkDo-4qVP5gWbC3p0isBuPWA9Qo?ext=png",
+      "name": "Chicken",
+      "onChain": true,
+      "verifyRun": true
+    }
+  },
+  "env": "devnet",
+  "cacheName": "temp"
+}
